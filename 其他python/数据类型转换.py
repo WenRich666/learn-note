@@ -10,7 +10,7 @@ def arrTodic(arr):
     return dic
 
 
-iii =arrTodic(l)
+iii = arrTodic(l)
 
 print(iii)
 
