@@ -32,12 +32,5 @@
 #     else:
 #         print(message)
 
-prompt = "\n阿乐是傻逼？"
-prompt += "\n是的\n输入'不是'结束这个游戏"
-message = ""
-message1 = "\n其实他是个大傻逼"
 
-while message != '不是':
-    message = input(prompt)
-while message == '不是':
-    message = input(message1)
+
