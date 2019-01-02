@@ -5,5 +5,3 @@
 #     print("\nThe number " + str(number) + " is even.")
 # else:
 #     print("\nThe number " + str(number) + " is odd.")
-
-

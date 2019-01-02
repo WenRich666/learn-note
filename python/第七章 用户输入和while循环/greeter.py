@@ -5,9 +5,3 @@
 # prompt += "\nWhat is your first name"
 # name = input(prompt)
 # print("\nHello," + name + "!")
-
-
-counting_number = 1
-while counting_number <= 5:
-    print(counting_number)
-    counting_number += 1
