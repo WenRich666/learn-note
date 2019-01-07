@@ -9,4 +9,4 @@ for i in range(1,1000):
     if isPrime(i):
         a.append(i)
 
-print(a)
+print(len(a))
