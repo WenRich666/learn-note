@@ -1,4 +1,1 @@
-import city_country
-
-
-print(city_country.cy("new york","norh america"))
+import 其他python.列表解析
